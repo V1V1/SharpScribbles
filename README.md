@@ -3,6 +3,7 @@ This is a collection of projects I'm working on as I learn C#. Expect terrible c
 
 ## StickyNotesExtract:
 Extracts data from the Windows Sticky Notes database. Works on Windows 10 Build 1607 and higher.
+This project doesn't rely on any external dependencies.
 ##### Usage: 
 $ .\StickyNotesExtract
 
