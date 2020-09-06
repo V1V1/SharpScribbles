@@ -4,7 +4,7 @@ This is a collection of projects I'm working on as I learn C#. Expect terrible c
 | Project | Info | .NET Version | Tested on |
 | :------ | :---------- | :-----------  | :----------- |
 | **StickyNotesExtract** | Extracts data from the Windows Sticky Notes database. Works on Windows 10 Build 1607 and higher. This project doesn't rely on any external dependencies. | 4.6 | Windows >= Build 1607 |
-| **ThunderFox** | Retrieves data (contacts, emails, history, cookies and credentials) from Thunderbird and Firefox. More details available in [this post](https://bohops.com/2018/06/28/abusing-com-registry-structure-clsid-localserver32-inprocserver32/). | 4.6 | Thunderbird 78.2.1 and Firefox 80.0.1 |
+| **ThunderFox** | Retrieves data (contacts, emails, history, cookies and credentials) from Thunderbird and Firefox. More details available in [this post](https://thevivi.net/2020/09/06/retrieving-data-from-thunderbird-and-firefox/). | 4.6 | Thunderbird 78.2.1 and Firefox 80.0.1 |
 
 ## StickyNotesExtract usage
 ```
