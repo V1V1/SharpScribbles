@@ -58,4 +58,4 @@ Usage:
                              json format can be imported into the Cookie Quick Manager addon.
 
 ```
-![alt tag](https://github.com/V1V1/SharpScribbles/raw/master/Images/thunderfox.png)
+![alt tag](https://github.com/V1V1/SharpScribbles/raw/master/Images/thunderfox-creds.png)
